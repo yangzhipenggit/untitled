@@ -14,4 +14,3 @@ class Yzp:
             print i
             lists.append(i)
         print lists
-        print 23
