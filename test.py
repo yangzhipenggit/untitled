@@ -13,4 +13,5 @@ print "测试完毕！"
 t=Yzp()
 t.test()
 print "yzp"
+print "123456"
 
